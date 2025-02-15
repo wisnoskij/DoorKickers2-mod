@@ -1,0 +1,1965 @@
+<Sounds>	
+	<!-- Trooper / Rangers -->
+	<Pack name="commander_eng" channel="commander" >
+		<!-- Commander -->
+		<!-- scan_voices.bat voice\commander ENG -->
+		<Sound ID="VOX_CMDR_ALARM" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_ALARM_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_ALARM_ENG_3.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_ALARM_ENG_4.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_ALARM_ENG_5.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_ALPHA" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_ALPHA_ENG_2.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_ALPHA_ENG_3.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_ALPHA_ENG_4.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_ALPHA_ENG_5.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_BRAVO" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_BRAVO_ENG_2.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_BRAVO_ENG_3.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_BRAVO_ENG_4.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_BRAVO_ENG_5.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_CHARLIE" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_CHARLIE_ENG_2.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_CHARLIE_ENG_4.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_CHARLIE_ENG_5.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_CIV_LOSSES" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_CIV_LOSSES_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_CIV_LOSSES_ENG_3.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_DELTA" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_DELTA_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_DELTA_ENG_2.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_DELTA_ENG_3.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_FAIL" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_FAIL_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_FAIL_ENG_2.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_FAIL_WIPED" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_FAIL_WIPED_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_FAIL_WIPED_ENG_2.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_GOODJOB" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_GOODJOB_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_GOODJOB_ENG_2.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_GO" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_GO_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_GO_ENG_2.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_GO_ENG_3.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_GO_ENG_6.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_GO_ENG_7.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_HOLD" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_HOLD_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_HOLD_ENG_3.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_HOLD_ENG_5.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_HOLD_ENG_8.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_HOLD_ENG_9.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_HOST_SEC" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_HOST_SEC_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_HOST_SEC_ENG_2.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_HOST_SEC_ENG_3.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_HOST_SEC_ENG_4.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_HOST_SEC_ENG_5.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_OPERATION_1" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_OPERATION_1_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_OPERATION_1_ENG_2.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_OPERATION_2" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_OPERATION_2_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_OPERATION_2_ENG_2.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_OP_LOSE" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_OP_LOSE_ENG_4.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_OP_LOSE_ENG_5.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_OP_LOSE_ENG_7.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_OP_LOSE_ENG_8.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_OP_WIN" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_OP_WIN_ENG_2.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_OP_WIN_ENG_4.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_OP_WIN_WELL" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_OP_WIN_WELL_ENG_1.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_REINF_BLUE" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_REINF_BLUE_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_REINF_BLUE_ENG_3.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_REINF_HVY" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_REINF_HVY_ENG_1.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_REINF_RED" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_REINF_RED_ENG_3.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_REINF_RED_ENG_4.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_REINF_RED_ENG_7.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_REINF_RED_ENG_8.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_TGT_ESCAPED" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TGT_ESCAPED_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TGT_ESCAPED_ENG_3.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_TGT_KILLED" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TGT_KILLED_ENG_1.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_TGT_SEC" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TGT_SEC_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TGT_SEC_ENG_3.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TGT_SEC_ENG_4.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TGT_SEC_ENG_6.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_TOD_FINISH" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_FINISH_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_FINISH_ENG_3.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_FINISH_ENG_6.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_TOD_HEAVY_LOSSES" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_HEAVY_LOSSES_ENG_3.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_HEAVY_LOSSES_ENG_5.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_TOD_INTEL_MISSION" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_INTEL_MISSION_ENG_2.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_INTEL_MISSION_ENG_4.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_INTEL_MISSION_ENG_6.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_INTEL_MISSION_ENG_8.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_TOD_LOSE" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_LOSE_ENG_2.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_LOSE_ENG_3.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_LOSE_ENG_5.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_TOD_MANY_BH" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_MANY_BH_ENG_2.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_MANY_BH_ENG_6.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_TOD_RESUME" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_RESUME_ENG_10.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_RESUME_ENG_3.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_RESUME_ENG_4.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_RESUME_ENG_7.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TOD_RESUME_ENG_8.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_TRP_LOSSES" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TRP_LOSSES_ENG_2.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TRP_LOSSES_ENG_6.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TRP_LOSSES_ENG_8.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_TRP_LOSSES_ENG_9.wav" />
+		</Sound>
+		<Sound ID="VOX_CMDR_VIP_SEC" >
+			<Path name="data/sounds/voice/commander/VOX_CMDR_VIP_SEC_ENG_1.wav" />
+			<Path name="data/sounds/voice/commander/VOX_CMDR_VIP_SEC_ENG_3.wav" />
+		</Sound>
+	</Pack>
+	
+	<!-- Sniper -->
+	<!-- scan_voices.bat voice\sniper -->
+	<Pack name="sniper_eng" channel="voice">
+		<Sound ID="VOX_SNIPER_AUTO_SHOT" >
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_AUTO_SHOT_1.wav" />
+		</Sound>
+		<Sound ID="VOX_SNIPER_ENEMYCLOSE" >
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_ENEMYCLOSE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_SNIPER_ENEMYMOVE" >
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_ENEMYMOVE_1.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_ENEMYMOVE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_SNIPER_EXECUTION" >
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_EXECUTION_1.wav" />
+		</Sound>
+		<Sound ID="VOX_SNIPER_EYESONTARGET" >
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_EYESONTARGET_1.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_EYESONTARGET_2.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_EYESONTARGET_3.wav" />
+		</Sound>
+		<Sound ID="VOX_SNIPER_EYESONTEAM" >
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_EYESONTEAM_1.wav" />
+		</Sound>
+		<Sound ID="VOX_SNIPER_HOST_SPOT" >
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_HOST_SPOT_1.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_HOST_SPOT_2.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_HOST_SPOT_3.wav" />
+		</Sound>
+		<Sound ID="VOX_SNIPER_INPOSITION" >
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_INPOSITION_1.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_INPOSITION_2.wav" />
+		</Sound>
+		<Sound ID="VOX_SNIPER_NEWTARGET" >
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_NEWTARGET_1.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_NEWTARGET_2.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_NEWTARGET_3.wav" />
+		</Sound>
+		<Sound ID="VOX_SNIPER_NOTRDY" >
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_NOTRDY_1.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_NOTRDY_2.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_NOTRDY_3.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_NOTRDY_4.wav" />
+		</Sound>
+		<Sound ID="VOX_SNIPER_RDY" >
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_RDY_1.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_RDY_2.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_RDY_3.wav" />
+		</Sound>
+		<Sound ID="VOX_SNIPER_ROGER" >
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_ROGER_1.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_ROGER_2.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_ROGER_3.wav" />
+		</Sound>
+		<Sound ID="VOX_SNIPER_TANGODOWN" >
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_TANGODOWN_1.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_TANGODOWN_2.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_TANGODOWN_3.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_TANGODOWN_4.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_TANGODOWN_5.wav" />
+		</Sound>
+		<Sound ID="VOX_SNIPER_TANGOINSIGHT" >
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_TANGOINSIGHT_1.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_TANGOINSIGHT_2.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_TANGOINSIGHT_3.wav" />
+		</Sound>
+		<Sound ID="VOX_SNIPER_TARGETLEFTVIEW" >
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_TARGETLEFTVIEW_1.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_TARGETLEFTVIEW_2.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_TARGETLEFTVIEW_3.wav" />
+			<Path name="data/sounds/voice/sniper/VOX_SNIPER_TARGETLEFTVIEW_4.wav" />
+		</Sound>
+		
+	</Pack>
+	
+	<!-- scan_voices.bat "voice\ranger male" RANGER_MALE -->
+	<Pack name="ranger_male" channel="voice">
+		<Sound ID="VOX_DYING" >
+			<Path name="data/sounds/voice/ranger male/VOX_DYING_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_DYING_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_DYING_RANGER_MALE_3.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_DYING_RANGER_MALE_4.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_DYING_RANGER_MALE_5.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_DYING_RANGER_MALE_6.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_FLASH" >
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_FLASH_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_FLASH_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_FLASH_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_FRAG" >
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_FRAG_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_FRAG_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_LAUNCHER" >
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_LAUNCHER_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_LAUNCHER_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_MOLOTOV" >
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_MOLOTOV_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_ROCKET" >
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_ROCKET_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_SMOKE" >
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_SMOKE_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_SMOKE_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_STINGER" >
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_STINGER_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_INJURED" >
+			<Path name="data/sounds/voice/ranger male/VOX_INJURED_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_INJURED_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_INJURED_RANGER_MALE_3.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_INJURED_RANGER_MALE_4.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_INJURED_RANGER_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_RELOAD_PUMP" >
+			<Path name="data/sounds/voice/ranger male/VOX_RELOAD_PUMP_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_RELOAD_PUMP_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_BOMB_DEFUSING" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_BOMB_DEFUSING_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_BOMB_LOCATED" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_BOMB_LOCATED_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_BOMB_LOCATED_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CANT" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CANT_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CANT_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CANT_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CAN_I_SHOOT" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CAN_I_SHOOT_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CAN_I_SHOOT_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CAN_I_SHOOT_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CIV_DOWN" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CIV_DOWN_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CLEAR" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CLEAR_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CLEAR_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CLEAR_RANGER_MALE_3.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CLEAR_RANGER_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_COME" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_COME_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_COME_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_COME_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_DONE_HERE" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_DONE_HERE_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_DONE_HERE_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EVAC" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EVAC_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EVAC_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EVAC_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYESONTARGET_QUIET" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EYESONTARGET_QUIET_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EYESONTARGET_QUIET_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYESONTARGET" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EYESONTARGET_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EYESONTARGET_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYES_HOSTAGE" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EYES_HOSTAGE_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EYES_HOSTAGE_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_FREEZE" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_FREEZE_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_FREEZE_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_FREEZE_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GEAR_CHARGE_PLACE_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GEAR_CHARGE_PLACE_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GEAR_CHARGE_RDY" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GEAR_CHARGE_RDY_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GEAR_CHARGE_RDY_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GEAR_CHARGE_RDY_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GETDOWN" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GETDOWN_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GETDOWN_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GETDOWN_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GO_GO_GO" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GO_GO_GO_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GO_GO_GO_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GO_LOUD" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GO_LOUD_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GO_LOUD_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HANDCUFF" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HANDCUFF_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HANDCUFF_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOLDING" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HOLDING_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HOLDING_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOST_DOWN" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HOST_DOWN_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HOST_DOWN_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOST_SEC" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HOST_SEC_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HOST_SEC_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HVT_RUNNING" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HVT_RUNNING_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HVT_RUNNING_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_KEEPMOVINGOFF" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_KEEPMOVINGOFF_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_KEEPMOVINGOFF_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_KEEPMOVINGON" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_KEEPMOVINGON_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MANDOWN" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MANDOWN_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MANDOWN_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MANDOWN_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MATCHSPEEDON" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MATCHSPEEDON_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MATCHSPEEDON_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MOVING" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MOVING_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MOVING_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MOVING_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_NOTANGOS" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_NOTANGOS_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_NOTANGOS_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_NOTANGOS_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ONTARGET" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ONTARGET_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ONTARGET_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_ALPHA" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_ALPHA_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_ALPHA_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_ALPHA_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_BRAVO" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_BRAVO_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_BRAVO_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_BRAVO_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_CHARLIE" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_CHARLIE_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_CHARLIE_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_CHARLIE_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_DELTA" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_DELTA_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_DELTA_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_DELTA_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ORDERS" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ORDERS_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ORDERS_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ORDERS_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_ALPHA" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PASS_ALPHA_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_BRAVO" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PASS_BRAVO_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_CHARLIE" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PASS_CHARLIE_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_DELTA" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PASS_DELTA_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PINNED_DOWN" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PINNED_DOWN_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PINNED_DOWN_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PINNED_DOWN_RANGER_MALE_3.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PINNED_DOWN_RANGER_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PUMPUP" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PUMPUP_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_RELOAD" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_RELOAD_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_RELOAD_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_RELOAD_RANGER_MALE_3.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_RELOAD_RANGER_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ROGER" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ROGER_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ROGER_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ROGER_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SILENTOFF" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_SILENTOFF_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_SILENTOFF_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SILENTON" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_SILENTON_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_SILENTON_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_SILENTON_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SUSP_SEC" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_SUSP_SEC_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TANGODOWN" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TANGODOWN_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TANGODOWN_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TANGODOWN_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TANGOS" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TANGOS_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TANGOS_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TARGET_SEC" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TARGET_SEC_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TARGET_SEC_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TIME_TO_GO" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TIME_TO_GO_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TIME_TO_GO_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_VIP_DEAD" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_VIP_DEAD_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_VIP_DEAD_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_WAIT" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_WAIT_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_WAIT_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_WAIT_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_WARN_GRENADE" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_WARN_GRENADE_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_WARN_GRENADE_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_WARN_RPG" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_WARN_RPG_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_WARN_RPG_RANGER_MALE_2.wav" />
+		</Sound>
+	</Pack>
+
+	<!-- scan_voices.bat "voice\ranger female" RANGER_FEMALE -->
+	<Pack name="ranger_female" channel="voice">
+		<Sound ID="VOX_DYING" >
+			<Path name="data/sounds/voice/ranger male/VOX_DYING_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_DYING_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_DYING_RANGER_MALE_3.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_DYING_RANGER_MALE_4.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_DYING_RANGER_MALE_5.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_DYING_RANGER_MALE_6.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_FLASH" >
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_FLASH_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_FLASH_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_FLASH_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_FRAG" >
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_FRAG_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_FRAG_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_LAUNCHER" >
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_LAUNCHER_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_LAUNCHER_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_MOLOTOV" >
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_MOLOTOV_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_ROCKET" >
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_ROCKET_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_SMOKE" >
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_SMOKE_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_SMOKE_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_STINGER" >
+			<Path name="data/sounds/voice/ranger male/VOX_GEAR_STINGER_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_INJURED" >
+			<Path name="data/sounds/voice/ranger male/VOX_INJURED_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_INJURED_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_INJURED_RANGER_MALE_3.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_INJURED_RANGER_MALE_4.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_INJURED_RANGER_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_RELOAD_PUMP" >
+			<Path name="data/sounds/voice/ranger male/VOX_RELOAD_PUMP_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_RELOAD_PUMP_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_BOMB_DEFUSING" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_BOMB_DEFUSING_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_BOMB_LOCATED" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_BOMB_LOCATED_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_BOMB_LOCATED_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CANT" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CANT_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CANT_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CANT_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CAN_I_SHOOT" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CAN_I_SHOOT_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CAN_I_SHOOT_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CAN_I_SHOOT_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CIV_DOWN" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CIV_DOWN_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CLEAR" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CLEAR_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CLEAR_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CLEAR_RANGER_MALE_3.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_CLEAR_RANGER_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_COME" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_COME_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_COME_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_COME_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_DONE_HERE" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_DONE_HERE_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_DONE_HERE_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EVAC" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EVAC_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EVAC_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EVAC_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYESONTARGET_QUIET" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EYESONTARGET_QUIET_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EYESONTARGET_QUIET_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYESONTARGET" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EYESONTARGET_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EYESONTARGET_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYES_HOSTAGE" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EYES_HOSTAGE_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_EYES_HOSTAGE_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_FREEZE" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_FREEZE_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_FREEZE_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_FREEZE_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GEAR_CHARGE_PLACE_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GEAR_CHARGE_PLACE_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GEAR_CHARGE_RDY" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GEAR_CHARGE_RDY_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GEAR_CHARGE_RDY_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GEAR_CHARGE_RDY_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GETDOWN" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GETDOWN_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GETDOWN_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GETDOWN_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GO_GO_GO" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GO_GO_GO_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GO_GO_GO_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GO_LOUD" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GO_LOUD_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_GO_LOUD_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HANDCUFF" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HANDCUFF_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HANDCUFF_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOLDING" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HOLDING_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HOLDING_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOST_DOWN" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HOST_DOWN_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HOST_DOWN_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOST_SEC" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HOST_SEC_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HOST_SEC_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HVT_RUNNING" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HVT_RUNNING_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_HVT_RUNNING_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_KEEPMOVINGOFF" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_KEEPMOVINGOFF_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_KEEPMOVINGOFF_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_KEEPMOVINGON" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_KEEPMOVINGON_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MANDOWN" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MANDOWN_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MANDOWN_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MANDOWN_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MATCHSPEEDON" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MATCHSPEEDON_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MATCHSPEEDON_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MOVING" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MOVING_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MOVING_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_MOVING_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_NOTANGOS" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_NOTANGOS_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_NOTANGOS_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_NOTANGOS_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ONTARGET" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ONTARGET_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ONTARGET_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_ALPHA" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_ALPHA_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_ALPHA_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_ALPHA_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_BRAVO" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_BRAVO_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_BRAVO_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_BRAVO_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_CHARLIE" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_CHARLIE_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_CHARLIE_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_CHARLIE_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_DELTA" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_DELTA_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_DELTA_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ON_DELTA_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ORDERS" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ORDERS_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ORDERS_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ORDERS_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_ALPHA" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PASS_ALPHA_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_BRAVO" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PASS_BRAVO_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_CHARLIE" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PASS_CHARLIE_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_DELTA" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PASS_DELTA_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PINNED_DOWN" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PINNED_DOWN_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PINNED_DOWN_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PINNED_DOWN_RANGER_MALE_3.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PINNED_DOWN_RANGER_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PUMPUP" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_PUMPUP_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_RELOAD" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_RELOAD_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_RELOAD_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_RELOAD_RANGER_MALE_3.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_RELOAD_RANGER_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ROGER" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ROGER_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ROGER_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_ROGER_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SILENTOFF" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_SILENTOFF_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_SILENTOFF_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SILENTON" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_SILENTON_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_SILENTON_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_SILENTON_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SUSP_SEC" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_SUSP_SEC_RANGER_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TANGODOWN" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TANGODOWN_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TANGODOWN_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TANGODOWN_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TANGOS" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TANGOS_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TANGOS_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TARGET_SEC" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TARGET_SEC_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TARGET_SEC_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TIME_TO_GO" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TIME_TO_GO_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_TIME_TO_GO_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_VIP_DEAD" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_VIP_DEAD_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_VIP_DEAD_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_WAIT" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_WAIT_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_WAIT_RANGER_MALE_2.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_WAIT_RANGER_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_WARN_GRENADE" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_WARN_GRENADE_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_WARN_GRENADE_RANGER_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_WARN_RPG" >
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_WARN_RPG_RANGER_MALE_1.wav" />
+			<Path name="data/sounds/voice/ranger male/VOX_TRPR_WARN_RPG_RANGER_MALE_2.wav" />
+		</Sound>
+	</Pack>
+
+	<!-- scan_voices.bat "voice\cia female" CIA_FEMALE -->
+	<Pack name="cia_female" channel="voice">
+		<Sound ID="VOX_DYING" >
+			<Path name="data/sounds/voice/cia male/VOX_DYING_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_DYING_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_DYING_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_DYING_CIA_MALE_4.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_DYING_CIA_MALE_5.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_DYING_CIA_MALE_6.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_FLASH" >
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_FLASH_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_FLASH_CIA_MALE_7.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_FLASH_CIA_MALE_14.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_FLASH_CIA_MALE_15.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_FRAG" >
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_FRAG_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_FRAG_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_LAUNCHER" >
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_LAUNCHER_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_LAUNCHER_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_MOLOTOV" >
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_MOLOTOV_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_ROCKET" >
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_ROCKET_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_SMOKE" >
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_SMOKE_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_SMOKE_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_STINGER" >
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_STINGER_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_INJURED" >
+			<Path name="data/sounds/voice/cia male/VOX_INJURED_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_INJURED_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_INJURED_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_RELOAD_PUMP" >
+			<Path name="data/sounds/voice/cia male/VOX_RELOAD_PUMP_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_RELOAD_PUMP_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_BOMB_DEFUSING" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_BOMB_DEFUSING_CIA_MALE_1.wav" />
+		</Sound>		
+		<Sound ID="VOX_TRPR_BOMB_LOCATED" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_BOMB_LOCATED_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_BOMB_LOCATED_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CANT" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CANT_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CANT_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CANT_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CANT_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CAN_I_SHOOT" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CAN_I_SHOOT_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CAN_I_SHOOT_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CAN_I_SHOOT_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CIV_DOWN" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CIV_DOWN_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CLEAR" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CLEAR_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CLEAR_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CLEAR_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CLEAR_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_COME" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COME_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COME_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COME_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COME_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_COMPROMISED" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COMPROMISED_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COMPROMISED_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COMPROMISED_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COMPROMISED_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_DISGUISED" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_DISGUISED_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_DISGUISED_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_DISGUISED_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_DISGUISED_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_DONE_HERE" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_DONE_HERE_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_DONE_HERE_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_DONE_HERE_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EVAC" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EVAC_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EVAC_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYESONTARGET" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EYESONTARGET_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EYESONTARGET_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYESONTARGET_QUIET" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EYESONTARGET_QUIET_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EYESONTARGET_QUIET_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EYESONTARGET_QUIET_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYES_HOSTAGE" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EYES_HOSTAGE_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EYES_HOSTAGE_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_FREEZE" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_FREEZE_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_FREEZE_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_FREEZE_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_FREEZE_CIA_MALE_4.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_FREEZE_CIA_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GEAR_CHARGE_PLACE_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GEAR_CHARGE_PLACE_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GEAR_CHARGE_PLACE_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GEAR_CHARGE_RDY" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GEAR_CHARGE_RDY_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GEAR_CHARGE_RDY_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GEAR_CHARGE_RDY_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GETDOWN" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GETDOWN_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GETDOWN_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GETDOWN_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GETDOWN_CIA_MALE_4.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GETDOWN_CIA_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GO_GO_GO" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GO_GO_GO_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GO_LOUD" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GO_LOUD_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GO_LOUD_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HANDCUFF" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HANDCUFF_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HANDCUFF_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOLDING" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HOLDING_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HOLDING_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HOLDING_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOST_DOWN" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HOST_DOWN_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOST_SEC" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HOST_SEC_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HVT_RUNNING" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HVT_RUNNING_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HVT_RUNNING_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HVT_RUNNING_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_KEEPMOVINGON" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_KEEPMOVINGON_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_KEEPMOVINGON_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_KEEPMOVINGON_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MANDOWN" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_MANDOWN_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_MANDOWN_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MATCHSPEEDON" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_MATCHSPEEDON_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_MATCHSPEEDON_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MOVING" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_MOVING_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_MOVING_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_MOVING_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_NOTANGOS" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_NOTANGOS_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_NOTANGOS_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_NOTANGOS_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_NOTANGOS_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ONTARGET" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ONTARGET_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ONTARGET_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_ALPHA" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_ALPHA_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_ALPHA_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_ALPHA_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_BRAVO" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_BRAVO_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_BRAVO_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_BRAVO_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_BRAVO_CIA_MALE_4.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_BRAVO_CIA_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_CHARLIE" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_CHARLIE_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_CHARLIE_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_CHARLIE_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_DELTA" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_DELTA_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_DELTA_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_DELTA_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ORDERS" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ORDERS_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ORDERS_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ORDERS_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_ALPHA" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PASS_ALPHA_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_BRAVO" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PASS_BRAVO_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_CHARLIE" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PASS_CHARLIE_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_DELTA" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PASS_DELTA_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PINNED_DOWN" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PINNED_DOWN_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PINNED_DOWN_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PINNED_DOWN_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PUMPUP" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PUMPUP_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_RELOAD" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_RELOAD_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_RELOAD_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_RELOAD_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ROGER" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ROGER_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ROGER_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ROGER_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ROGER_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SILENTOFF" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SILENTOFF_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SILENTOFF_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SILENTOFF_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SILENTOFF_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SILENTON" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SILENTON_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SILENTON_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SILENTON_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SUSP_SEC" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SUSP_SEC_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TANGODOWN" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGODOWN_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGODOWN_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGODOWN_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGODOWN_CIA_MALE_4.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGODOWN_CIA_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TANGOS" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGOS_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGOS_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGOS_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGOS_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TARGET_SEC" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TARGET_SEC_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TARGET_SEC_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TARGET_SEC_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TARGET_SEC_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TIME_TO_GO" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TIME_TO_GO_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_VIP_DEAD" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_VIP_DEAD_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_VIP_DEAD_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_WAIT" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WAIT_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WAIT_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WAIT_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_WARN_GRENADE" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_GRENADE_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_GRENADE_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_GRENADE_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_GRENADE_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_WARN_RPG" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_RPG_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_RPG_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_RPG_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_RPG_CIA_MALE_4.wav" />
+		</Sound>
+	</Pack>
+
+	<!-- scan_voices.bat "voice\cia male" CIA_MALE -->
+	<Pack name="cia_male" channel="voice">
+		<Sound ID="VOX_DYING" >
+			<Path name="data/sounds/voice/cia male/VOX_DYING_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_DYING_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_DYING_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_DYING_CIA_MALE_4.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_DYING_CIA_MALE_5.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_DYING_CIA_MALE_6.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_FLASH" >
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_FLASH_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_FLASH_CIA_MALE_7.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_FLASH_CIA_MALE_14.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_FLASH_CIA_MALE_15.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_FRAG" >
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_FRAG_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_FRAG_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_LAUNCHER" >
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_LAUNCHER_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_LAUNCHER_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_MOLOTOV" >
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_MOLOTOV_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_ROCKET" >
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_ROCKET_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_SMOKE" >
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_SMOKE_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_SMOKE_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_STINGER" >
+			<Path name="data/sounds/voice/cia male/VOX_GEAR_STINGER_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_INJURED" >
+			<Path name="data/sounds/voice/cia male/VOX_INJURED_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_INJURED_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_INJURED_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_RELOAD_PUMP" >
+			<Path name="data/sounds/voice/cia male/VOX_RELOAD_PUMP_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_RELOAD_PUMP_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_BOMB_DEFUSING" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_BOMB_DEFUSING_CIA_MALE_1.wav" />
+		</Sound>		
+		<Sound ID="VOX_TRPR_BOMB_LOCATED" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_BOMB_LOCATED_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_BOMB_LOCATED_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CANT" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CANT_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CANT_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CANT_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CANT_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CAN_I_SHOOT" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CAN_I_SHOOT_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CAN_I_SHOOT_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CAN_I_SHOOT_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CIV_DOWN" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CIV_DOWN_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CLEAR" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CLEAR_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CLEAR_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CLEAR_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_CLEAR_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_COME" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COME_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COME_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COME_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COME_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_COMPROMISED" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COMPROMISED_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COMPROMISED_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COMPROMISED_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_COMPROMISED_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_DISGUISED" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_DISGUISED_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_DISGUISED_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_DISGUISED_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_DISGUISED_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_DONE_HERE" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_DONE_HERE_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_DONE_HERE_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_DONE_HERE_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EVAC" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EVAC_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EVAC_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYESONTARGET" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EYESONTARGET_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EYESONTARGET_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYESONTARGET_QUIET" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EYESONTARGET_QUIET_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EYESONTARGET_QUIET_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EYESONTARGET_QUIET_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYES_HOSTAGE" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EYES_HOSTAGE_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_EYES_HOSTAGE_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_FREEZE" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_FREEZE_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_FREEZE_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_FREEZE_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_FREEZE_CIA_MALE_4.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_FREEZE_CIA_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GEAR_CHARGE_PLACE_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GEAR_CHARGE_PLACE_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GEAR_CHARGE_PLACE_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GEAR_CHARGE_RDY" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GEAR_CHARGE_RDY_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GEAR_CHARGE_RDY_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GEAR_CHARGE_RDY_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GETDOWN" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GETDOWN_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GETDOWN_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GETDOWN_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GETDOWN_CIA_MALE_4.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GETDOWN_CIA_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GO_GO_GO" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GO_GO_GO_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GO_LOUD" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GO_LOUD_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_GO_LOUD_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HANDCUFF" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HANDCUFF_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HANDCUFF_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOLDING" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HOLDING_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HOLDING_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HOLDING_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOST_DOWN" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HOST_DOWN_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOST_SEC" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HOST_SEC_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HVT_RUNNING" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HVT_RUNNING_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HVT_RUNNING_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_HVT_RUNNING_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_KEEPMOVINGON" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_KEEPMOVINGON_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_KEEPMOVINGON_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_KEEPMOVINGON_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MANDOWN" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_MANDOWN_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_MANDOWN_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MATCHSPEEDON" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_MATCHSPEEDON_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_MATCHSPEEDON_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MOVING" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_MOVING_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_MOVING_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_MOVING_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_NOTANGOS" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_NOTANGOS_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_NOTANGOS_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_NOTANGOS_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_NOTANGOS_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ONTARGET" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ONTARGET_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ONTARGET_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_ALPHA" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_ALPHA_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_ALPHA_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_ALPHA_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_BRAVO" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_BRAVO_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_BRAVO_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_BRAVO_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_BRAVO_CIA_MALE_4.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_BRAVO_CIA_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_CHARLIE" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_CHARLIE_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_CHARLIE_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_CHARLIE_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_DELTA" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_DELTA_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_DELTA_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ON_DELTA_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ORDERS" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ORDERS_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ORDERS_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ORDERS_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_ALPHA" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PASS_ALPHA_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_BRAVO" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PASS_BRAVO_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_CHARLIE" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PASS_CHARLIE_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_DELTA" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PASS_DELTA_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PINNED_DOWN" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PINNED_DOWN_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PINNED_DOWN_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PINNED_DOWN_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PUMPUP" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_PUMPUP_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_RELOAD" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_RELOAD_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_RELOAD_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_RELOAD_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ROGER" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ROGER_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ROGER_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ROGER_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_ROGER_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SILENTOFF" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SILENTOFF_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SILENTOFF_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SILENTOFF_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SILENTOFF_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SILENTON" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SILENTON_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SILENTON_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SILENTON_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SUSP_SEC" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_SUSP_SEC_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TANGODOWN" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGODOWN_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGODOWN_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGODOWN_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGODOWN_CIA_MALE_4.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGODOWN_CIA_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TANGOS" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGOS_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGOS_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGOS_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TANGOS_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TARGET_SEC" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TARGET_SEC_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TARGET_SEC_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TARGET_SEC_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TARGET_SEC_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TIME_TO_GO" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_TIME_TO_GO_CIA_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_VIP_DEAD" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_VIP_DEAD_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_VIP_DEAD_CIA_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_WAIT" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WAIT_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WAIT_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WAIT_CIA_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_WARN_GRENADE" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_GRENADE_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_GRENADE_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_GRENADE_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_GRENADE_CIA_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_WARN_RPG" >
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_RPG_CIA_MALE_1.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_RPG_CIA_MALE_2.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_RPG_CIA_MALE_3.wav" />
+			<Path name="data/sounds/voice/cia male/VOX_TRPR_WARN_RPG_CIA_MALE_4.wav" />
+		</Sound>
+	</Pack>
+
+	<!-- scan_voices.bat "voice\nws male" NWS_MALE -->
+	<Pack name="nws_male" channel="voice">
+		<Sound ID="VOX_DYING" >
+			<Path name="data/sounds/voice/nws male/VOX_DYING_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_DYING_NWS_MALE_10.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_DYING_NWS_MALE_11.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_DYING_NWS_MALE_12.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_DYING_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_DYING_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_DYING_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_DYING_NWS_MALE_5.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_DYING_NWS_MALE_6.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_DYING_NWS_MALE_7.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_DYING_NWS_MALE_8.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_DYING_NWS_MALE_9.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_FLASH" >
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_FLASH_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_FLASH_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_FLASH_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_FLASH_NWS_MALE_6.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_FLASH_NWS_MALE_7.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_FLASH_NWS_MALE_8.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_FRAG" >
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_FRAG_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_FRAG_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_FRAG_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_FRAG_NWS_MALE_5.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_FRAG_NWS_MALE_6.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_LAUNCHER" >
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_LAUNCHER_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_LAUNCHER_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_LAUNCHER_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_LAUNCHER_NWS_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_MOLOTOV" >
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_MOLOTOV_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_MOLOTOV_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_MOLOTOV_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_MOLOTOV_NWS_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_ROCKET" >
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_ROCKET_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_ROCKET_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_ROCKET_NWS_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_SMOKE" >
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_SMOKE_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_SMOKE_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_SMOKE_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_SMOKE_NWS_MALE_5.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_SMOKE_NWS_MALE_6.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_STINGER" >
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_STINGER_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_STINGER_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_STINGER_NWS_MALE_5.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_GEAR_STINGER_NWS_MALE_8.wav" />
+		</Sound>
+		<Sound ID="VOX_INJURED" >
+			<Path name="data/sounds/voice/nws male/VOX_INJURED_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_INJURED_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_INJURED_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_INJURED_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_INJURED_NWS_MALE_5.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_INJURED_NWS_MALE_6.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_INJURED_NWS_MALE_7.wav" />
+		</Sound>
+		<Sound ID="VOX_RELOAD_PUMP" >
+			<Path name="data/sounds/voice/nws male/VOX_RELOAD_PUMP_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_RELOAD_PUMP_NWS_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_BOMB_DEFUSING" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_BOMB_DEFUSING_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_BOMB_DEFUSING_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_BOMB_DEFUSING_NWS_MALE_6.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_BOMB_DEFUSING_NWS_MALE_7.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_BOMB_LOCATED" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_BOMB_LOCATED_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_BOMB_LOCATED_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_BOMB_LOCATED_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_BOMB_LOCATED_NWS_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_BREACHING_DOOR" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_BREACHING_DOOR_NWS_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CANT" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CANT_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CANT_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CANT_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CANT_NWS_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CAN_I_SHOOT" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CAN_I_SHOOT_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CAN_I_SHOOT_NWS_MALE_5.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CAN_I_SHOOT_NWS_MALE_6.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CAN_I_SHOOT_NWS_MALE_7.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CIV_DOWN" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CIV_DOWN_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CIV_DOWN_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CIV_DOWN_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CIV_DOWN_NWS_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CLEAR" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CLEAR_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CLEAR_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CLEAR_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CLEAR_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_CLEAR_NWS_MALE_6.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_COME" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_COME_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_COME_NWS_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_COMPROMISED" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_COMPROMISED_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_COMPROMISED_NWS_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_DISGUISED" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_DISGUISED_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_DISGUISED_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_DISGUISED_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_DISGUISED_NWS_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_DONE_HERE" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_DONE_HERE_NWS_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EVAC" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_EVAC_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_EVAC_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_EVAC_NWS_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYESONTARGET" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_EYESONTARGET_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_EYESONTARGET_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_EYESONTARGET_NWS_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYESONTARGET_QUIET" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_EYESONTARGET_QUIET_NWS_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYES_HOSTAGE" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_EYES_HOSTAGE_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_EYES_HOSTAGE_NWS_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_FREEZE" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_FREEZE_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_FREEZE_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_FREEZE_NWS_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_GEAR_CHARGE_PLACE_NWS_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GEAR_CHARGE_RDY" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_GEAR_CHARGE_RDY_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_GEAR_CHARGE_RDY_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_GEAR_CHARGE_RDY_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_GEAR_CHARGE_RDY_NWS_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GETDOWN" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_GETDOWN_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_GETDOWN_NWS_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GO_GO_GO" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_GO_GO_GO_NWS_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GO_LOUD" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_GO_LOUD_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_GO_LOUD_NWS_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HANDCUFF" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_HANDCUFF_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_HANDCUFF_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_HANDCUFF_NWS_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOLDING" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_HOLDING_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_HOLDING_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_HOLDING_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_HOLDING_NWS_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOST_DOWN" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_HOST_DOWN_NWS_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOST_SEC" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_HOST_SEC_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_HOST_SEC_NWS_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HVT_RUNNING" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_HVT_RUNNING_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_HVT_RUNNING_NWS_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_KEEPMOVINGOFF" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_KEEPMOVINGOFF_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_KEEPMOVINGOFF_NWS_MALE_5.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_KEEPMOVINGOFF_NWS_MALE_6.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_KEEPMOVINGON" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_KEEPMOVINGON_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_KEEPMOVINGON_NWS_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MANDOWN" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_MANDOWN_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_MANDOWN_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_MANDOWN_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_MANDOWN_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_MANDOWN_NWS_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MATCHSPEEDON" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_MATCHSPEEDON_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_MATCHSPEEDON_NWS_MALE_5.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_MATCHSPEEDON_NWS_MALE_6.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MOVING" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_MOVING_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_MOVING_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_MOVING_NWS_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_NOTANGOS" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_NOTANGOS_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_NOTANGOS_NWS_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ONTARGET" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_ONTARGET_NWS_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_ALPHA" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_ON_ALPHA_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_ON_ALPHA_NWS_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_BRAVO" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_ON_BRAVO_NWS_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_CHARLIE" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_ON_CHARLIE_NWS_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_DELTA" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_ON_DELTA_NWS_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ORDERS" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_ORDERS_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_ORDERS_NWS_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_ALPHA" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_PASS_ALPHA_NWS_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_BRAVO" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_PASS_BRAVO_NWS_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_CHARLIE" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_PASS_CHARLIE_NWS_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_DELTA" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_PASS_DELTA_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_PASS_DELTA_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_PASS_DELTA_NWS_MALE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PINNED_DOWN" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_PINNED_DOWN_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_PINNED_DOWN_NWS_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PUMPUP" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_PUMPUP_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_PUMPUP_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_PUMPUP_NWS_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_RELOAD" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_RELOAD_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_RELOAD_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_RELOAD_NWS_MALE_5.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_RELOAD_NWS_MALE_6.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ROGER" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_ROGER_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_ROGER_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_ROGER_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_ROGER_NWS_MALE_5.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_ROGER_NWS_MALE_6.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SHIELD_PEN" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_SHIELD_PEN_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_SHIELD_PEN_NWS_MALE_5.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SILENTOFF" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_SILENTOFF_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_SILENTOFF_NWS_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SILENTON" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_SILENTON_NWS_MALE_5.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_SILENTON_NWS_MALE_6.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SUSP_SEC" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_SUSP_SEC_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_SUSP_SEC_NWS_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TANGODOWN" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_TANGODOWN_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_TANGODOWN_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_TANGODOWN_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_TANGODOWN_NWS_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TANGOS" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_TANGOS_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_TANGOS_NWS_MALE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TARGET_SEC" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_TARGET_SEC_NWS_MALE_4.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_TARGET_SEC_NWS_MALE_6.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_TARGET_SEC_NWS_MALE_7.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_TARGET_SEC_NWS_MALE_8.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TIME_TO_GO" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_TIME_TO_GO_NWS_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_VIP_DEAD" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_VIP_DEAD_NWS_MALE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_WAIT" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_WAIT_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_WAIT_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_WAIT_NWS_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_WARN_GRENADE" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_WARN_GRENADE_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_WARN_GRENADE_NWS_MALE_2.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_WARN_GRENADE_NWS_MALE_3.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_WARN_GRENADE_NWS_MALE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_WARN_RPG" >
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_WARN_RPG_NWS_MALE_1.wav" />
+			<Path name="data/sounds/voice/nws male/VOX_TRPR_WARN_RPG_NWS_MALE_2.wav" />
+		</Sound>
+
+	</Pack>
+
+	<!-- scan_voices.bat "voice\fergie" FERGIE -->
+	<Pack name="fergie" channel="voice">
+		<Sound ID="VOX_DYING" >
+			<Path name="data/sounds/voice/fergie/VOX_DYING_FERGIE_1.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_DYING_FERGIE_2.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_DYING_FERGIE_3.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_DYING_FERGIE_4.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_DYING_FERGIE_5.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_DYING_FERGIE_6.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_FLASH" >
+			<Path name="data/sounds/voice/fergie/VOX_GEAR_FLASH_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_FRAG" >
+			<Path name="data/sounds/voice/fergie/VOX_GEAR_FRAG_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_SMOKE" >
+			<Path name="data/sounds/voice/fergie/VOX_GEAR_SMOKE_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_GEAR_STINGER" >
+			<Path name="data/sounds/voice/fergie/VOX_GEAR_STINGER_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_INJURED" >
+			<Path name="data/sounds/voice/fergie/VOX_INJURED_FERGIE_1.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_INJURED_FERGIE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_BOMB_DEFUSING" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_BOMB_DEFUSING_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_BOMB_LOCATED" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_BOMB_LOCATED_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CANT" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_CANT_FERGIE_1a.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_CANT_FERGIE_1b.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_CANT_FERGIE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CAN_I_SHOOT" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_CAN_I_SHOOT_FERGIE_1.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_CAN_I_SHOOT_FERGIE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CIV_DOWN" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_CIV_DOWN_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_CLEAR" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_CLEAR_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_COME" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_COME_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_COMPROMISED" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_COMPROMISED_FERGIE_1.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_COMPROMISED_FERGIE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_DISGUISED" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_DISGUISED_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_DONE_HERE" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_DONE_HERE_FERGIE_1.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_DONE_HERE_FERGIE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EVAC" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_EVAC_FERGIE_1.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_EVAC_FERGIE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYESONTARGET" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_EYESONTARGET_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYESONTARGET_QUIET" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_EYESONTARGET_QUIET_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_EYES_HOSTAGE" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_EYES_HOSTAGE_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_FREEZE" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_FREEZE_FERGIE_1.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_FREEZE_FERGIE_2.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_FREEZE_FERGIE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_GEAR_CHARGE_PLACE_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GEAR_CHARGE_RDY" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_GEAR_CHARGE_RDY_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GETDOWN" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_GETDOWN_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_GO_LOUD" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_GO_LOUD_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HANDCUFF" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_HANDCUFF_FERGIE_1.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_HANDCUFF_FERGIE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOLDING" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_HOLDING_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOST_DOWN" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_HOST_DOWN_FERGIE_1.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_HOST_DOWN_FERGIE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HOST_SEC" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_HOST_SEC_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_HVT_RUNNING" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_HVT_RUNNING_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_KEEPMOVINGOFF" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_KEEPMOVINGOFF_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_KEEPMOVINGON" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_KEEPMOVINGON_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MANDOWN" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_MANDOWN_FERGIE_1.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_MANDOWN_FERGIE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MATCHSPEEDON" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_MATCHSPEEDON_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_MOVING" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_MOVING_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_NOTANGOS" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_NOTANGOS_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ONTARGET" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_ONTARGET_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_ALPHA" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_ON_ALPHA_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_BRAVO" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_ON_BRAVO_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_CHARLIE" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_ON_CHARLIE_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ON_DELTA" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_ON_DELTA_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ORDERS" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_ORDERS_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_ALPHA" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_PASS_ALPHA_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_BRAVO" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_PASS_BRAVO_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_CHARLIE" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_PASS_CHARLIE_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PASS_DELTA" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_PASS_DELTA_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PINNED_DOWN" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_PINNED_DOWN_FERGIE_1.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_PINNED_DOWN_FERGIE_2.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_PUMPUP" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_PUMPUP_FERGIE_1b.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_PUMPUP_FERGIE_2b.wav" />
+		</Sound>
+		<Sound ID="VOX_RELOAD" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_RELOAD_FERGIE_1.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_RELOAD_FERGIE_2.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_RELOAD_FERGIE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_ROGER" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_ROGER_FERGIE_1.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_ROGER_FERGIE_2.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_ROGER_FERGIE_3.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SILENTOFF" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_SILENTOFF_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SILENTON" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_SILENTON_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_SUSP_SEC" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_SUSP_SEC_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TANGODOWN" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_TANGODOWN_FERGIE_1.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_TANGODOWN_FERGIE_2.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_TANGODOWN_FERGIE_3.wav" />
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_TANGODOWN_FERGIE_4.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TANGOS" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_TANGOS_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TARGET_SEC" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_TARGET_SEC_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_TIME_TO_GO" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_TIME_TO_GO_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_VIP_DEAD" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_VIP_DEAD_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_TRPR_WAIT" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_WAIT_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_WARN_GRENADE" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_WARN_GRENADE_FERGIE_1.wav" />
+		</Sound>
+		<Sound ID="VOX_WARN_RPG" >
+			<Path name="data/sounds/voice/fergie/VOX_TRPR_WARN_RPG_FERGIE_1.wav" />
+		</Sound>
+	</Pack>
+</Sounds>
